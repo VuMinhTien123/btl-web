@@ -1,0 +1,39 @@
+﻿
+
+@model IEnumerable<WebsiteBanHang.Context.Product>
+
+@{
+    ViewBag.Title = "KetQuaTimKiem";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@*
+    <section id="slider">
+        <div class="slider-container">
+            <img src="~/Content/images/slide2.png" alt="">
+            <img src="~/Content/images/slide5.png" alt="">
+        </div>
+        <div class="dot-container">
+            <div class="dot active"></div>
+            <div class="dot"></div>
+        </div>
+    </section>
+*@
+
+<section class="product-related container">
+    <div class="product-related-title">
+        <p>Kết quả tìm kiếm</p>
+    </div>
+    <div class="product-content1">
+        @foreach (var item in Model)
+        {
+            <div class="product-related-item">
+                <a href="@Url.Action("Detail","Product", new {Id= item.Id })">
+                    <img src="~/Content/images/@item.Avartar" alt="">
+                </a>
+                <h2>@item.Name</h2>
+                <p>@item.Price<sup>đ</sup></p>
+            </div>
+        }
+    </div>
+</section>

@@ -1,0 +1,26 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<div style="padding-left:60px; border-bottom:2px solid black;padding-bottom:50px;padding-top:20px;">
+    <h2 style="padding-top:100px;padding-bottom:20px;">Thanh toán thành công</h2>
+    <a href="@Url.Action("Index", "Home")">
+        <button style="padding:6px 30px;font-size:16px;cursor:pointer;">Tiếp tục mua sắm</button>
+    </a>
+</div>
+
+
+<style>
+    button{
+        border:1px solid #333;
+    }
+    button:hover{
+        background-color:black;
+        color:white;
+    }
+
+</style>
+

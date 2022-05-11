@@ -1,0 +1,41 @@
+﻿@model WebsiteBanHang.Context.User
+
+
+@{
+    ViewBag.Title = "Login";
+}
+
+<div class="row justify-content-md-center" style="padding-top: 180px; border-bottom: 1px solid #333; padding-left: 620px; padding-bottom: 120px;">
+    <div class="a" style="width: 320px; height: 240px; background-color: rgb(243, 245, 247);border-radius:5px; ">
+        <div class="col-md-4">
+            <div class="card">
+                <div class="card-header" style="margin:20px 0 20px 140px;font-weight:bold;font-size:20px;">
+                    Login
+                </div>
+                <div class="card-body">
+                    @using (Html.BeginForm("Login", "Home", FormMethod.Post))
+                    {
+                        @Html.AntiForgeryToken()
+                        <div class="form-group" style="display:flex;">
+                            @Html.LabelFor(m => m.Email)
+                            <div style="padding-left: 60px; ">
+                                @Html.TextBoxFor(m => m.Email, "", new { @class = "form-control", @placeholder = "Email" })
+                            </div>
+
+                        </div>
+                        <div class="form-group" style="display: flex; padding-top: 20px">
+                            @Html.LabelFor(m => m.Password)
+                            <div style="padding-left:30px;">
+                                @Html.PasswordFor(m => m.Password, new { @class = "form-control", @placeholder = "Password" })
+                            </div>
+                        </div>
+                        <div class="form-group" style="padding: 20px 0 20px 0px;  ">
+                            <input style="font-size: 20px;background-color:black;color:white;border-radius:3px;border:1px solid #ddd;padding:4px 10px;cursor:pointer;" type="submit" name="submit" class="btn btn-primary" value="Login" />
+                        </div>
+                    }
+                    <a href="~/Home/Register" style="padding-left:0;"><button style="cursor: pointer; font-size: 20px; background-color: black; color: white; border-radius: 3px; border: 1px solid #ddd; padding: 4px 10px;">Register</button></a>
+                </div>
+            </div>         
+        </div>
+    </div>
+</div>

@@ -1,0 +1,94 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="~/Content/css/style.css" rel="stylesheet" />
+    <link href="~/Content/fontawesome-free-6.0.0-web/css/all.min.css" rel="stylesheet" />
+    <title>Laptop</title>
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <a href="~/Home/Index"><img src="~/Content/images/logo.png"></a>
+        </div>
+        <div class="menu">
+            <ul>
+                <li>
+                    <a class="hover" href="~/Category/Index">LAPTOP MỚI</a>
+                </li>
+                <li><a class="hover" href="">LAPTOP GAMING</a></li>
+                <li><a class="hover" href="">LAPTOP ĐỒ HỌA</a></li>
+                <li><a class="hover" href="">MÁY TÍNH PC</a></li>
+                <li><a class="hover" href="">SALE</a></li>
+                <li><a class="hover" href="">PHỤ KIỆN</a></li>
+                <li><a class="hover" href="">BẢO HÀNH</a></li>
+            </ul>
+        </div>
+        <div class="others">
+            <ul>
+                <li id="txtTimKiem">
+                    @using (Html.BeginForm("KetQuaTimKiem","Search", FormMethod.Post))
+                    {
+                        @Html.TextBox("txtTimKiem","",htmlAttributes: new { @class="TextBoxTimKiem",@placeholder="Tìm Kiếm"})
+                        <a class="hover" href="">
+                            <i class="fa-solid fa-magnifying-glass"></i>
+                        </a>
+                    }
+                </li>
+                <li style="">
+                    @if (Session["idUser"] != null)
+                    {
+                        <a class="hover" href="~/Home/Logout">ADMIN</a>
+                        <a class="hover" href="~/Home/Logout">LOGOUT</a>
+                    }
+                    else
+                    {
+                        <a class="hover" href="~/Home/Login"><i class="fa-solid fa-user"></i></a>
+                    }
+                </li>
+                <li style="width:60px; display:flex;">
+                    <a class="hover" href="@Url.Action("Index", "Cart")"><i class="fa-solid fa-cart-shopping"></i></a>
+                    <span id="CartCount" class="notify" style="color:red;">@Session["count"]</span>
+                </li>
+            </ul>
+        </div>
+    </header>
+
+    @RenderBody()
+
+  
+    <section class="app-container">
+        <p>Shop Laptop Hàng Đầu Việt Nam</p>
+        <div class="app-google">
+            <a href=""><img src="~/Content/images/appstore.png" alt=""></a>
+            <a href=""><img src="~/Content/images/googleplay.png" alt=""></a>
+        </div>
+        <p>Uy Tín Tạo Nên Thương Hiệu</p>
+        <input type="text" placeholder="Nhập email của bạn">
+    </section>
+    <div class="footer-top">
+        <li><a href=""><img src="~/Content/images/dathongbao.png" alt=""></a></li>
+        <li><a class="hover" href="">Liên Hệ</a></li>
+        <li><a class="hover" href="">Tuyển dụng</a></li>
+        <li><a class="hover" href="">Giới thiệu</a></li>
+        <li>
+            <a class="hover" href=""><i class="fa-brands fa-facebook-f"></i></a>
+            <a class="hover" href=""><i class="fa-brands fa-youtube"></i></a>
+        </li>
+    </div>
+    <div class="footer-bottom">
+        <p class="footer-bottom1">
+            CÔNG TY CỔ PHẦN LAPTOPCN VIỆT NAM <br>
+            Địa chỉ:Số 3 phố Cầu Giấy,P.Láng Thượng,Q.Đống Đa,Hà Nội <br>
+            Điện thoai: <span>(84.24)37663311</span> -Fax: <span>(84.24)37669613</span> <br>
+            Email:dhgtvt@utc.edu.vn
+        </p>
+        <p class="footer-bottom2">
+            <span>Bản Quyền Thuộc Nhóm 1</span>
+        </p>
+    </div>
+</body>
+<script src="~/Content/script/script.js"></script>
+</html>

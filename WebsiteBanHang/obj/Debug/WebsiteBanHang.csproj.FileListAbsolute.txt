@@ -1,0 +1,428 @@
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\WebsiteBanHang.dll.config
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\WebsiteBanHang.dll
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\WebsiteBanHang.pdb
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\csc.exe
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\csc.exe.config
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\csc.rsp
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\csi.exe
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\csi.exe.config
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\csi.rsp
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\Microsoft.Managed.Core.targets
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\System.AppContext.dll
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\System.Collections.Immutable.dll
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\System.Console.dll
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\System.Globalization.Calendars.dll
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\System.IO.Compression.dll
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\System.IO.FileSystem.dll
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\System.Net.Http.dll
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\System.Net.Sockets.dll
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\System.Reflection.Metadata.dll
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\System.ValueTuple.dll
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\System.Xml.XmlDocument.dll
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\System.Xml.XPath.dll
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\vbc.exe
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\vbc.exe.config
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\vbc.rsp
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\VBCSCompiler.exe
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\VBCSCompiler.exe.config
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\Antlr3.Runtime.dll
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\Microsoft.Web.Infrastructure.dll
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\Newtonsoft.Json.dll
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\System.Web.Helpers.dll
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\System.Web.Mvc.dll
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\System.Web.Optimization.dll
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\System.Web.Razor.dll
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\System.Web.WebPages.Deployment.dll
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\System.Web.WebPages.dll
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\System.Web.WebPages.Razor.dll
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\WebGrease.dll
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\System.Web.Helpers.xml
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\System.Web.Mvc.xml
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\System.Web.Optimization.xml
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\System.Web.Razor.xml
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\System.Web.WebPages.xml
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\System.Web.WebPages.Deployment.xml
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\System.Web.WebPages.Razor.xml
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\Newtonsoft.Json.xml
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\Antlr3.Runtime.pdb
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\obj\Debug\WebsiteBanHang.csproj.AssemblyReference.cache
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\obj\Debug\WebsiteBanHang.csproj.CoreCompileInputs.cache
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\obj\Debug\WebsiteBanHang.dll
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\obj\Debug\WebsiteBanHang.pdb
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\EntityFramework.dll
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\EntityFramework.xml
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\EntityFramework.SqlServer.dll
+D:\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\EntityFramework.SqlServer.xml
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\WebsiteBanHang.dll.config
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\WebsiteBanHang.dll
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\WebsiteBanHang.pdb
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\csc.exe
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\csc.exe.config
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\csc.rsp
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\csi.exe
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\csi.exe.config
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\csi.rsp
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\Microsoft.Managed.Core.targets
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\System.AppContext.dll
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\System.Collections.Immutable.dll
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\System.Console.dll
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\System.Globalization.Calendars.dll
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\System.IO.Compression.dll
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\System.IO.FileSystem.dll
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\System.Net.Http.dll
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\System.Net.Sockets.dll
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\System.Reflection.Metadata.dll
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\System.ValueTuple.dll
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\System.Xml.XmlDocument.dll
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\System.Xml.XPath.dll
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\vbc.exe
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\vbc.exe.config
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\vbc.rsp
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\VBCSCompiler.exe
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\VBCSCompiler.exe.config
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\Antlr3.Runtime.dll
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\EntityFramework.dll
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\EntityFramework.SqlServer.dll
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\Microsoft.Web.Infrastructure.dll
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\Newtonsoft.Json.dll
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\System.Web.Helpers.dll
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\System.Web.Mvc.dll
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\System.Web.Optimization.dll
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\System.Web.Razor.dll
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\System.Web.WebPages.Deployment.dll
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\System.Web.WebPages.dll
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\System.Web.WebPages.Razor.dll
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\WebGrease.dll
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\EntityFramework.xml
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\EntityFramework.SqlServer.xml
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\System.Web.Helpers.xml
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\System.Web.Mvc.xml
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\System.Web.Optimization.xml
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\System.Web.Razor.xml
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\System.Web.WebPages.xml
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\System.Web.WebPages.Deployment.xml
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\System.Web.WebPages.Razor.xml
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\Newtonsoft.Json.xml
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\Antlr3.Runtime.pdb
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\obj\Debug\WebsiteBanHang.csproj.AssemblyReference.cache
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\obj\Debug\WebsiteBanHang.csproj.CoreCompileInputs.cache
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\obj\Debug\WebsiteBanHang.dll
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\obj\Debug\WebsiteBanHang.pdb
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\xunit.abstractions.dll
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\xunit.core.dll
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\xunit.abstractions.xml
+D:\zz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\xunit.core.xml
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\WebsiteBanHang.dll.config
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\WebsiteBanHang.dll
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\WebsiteBanHang.pdb
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\csc.exe
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\csc.exe.config
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\csc.rsp
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\csi.exe
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\csi.exe.config
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\csi.rsp
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\Microsoft.Managed.Core.targets
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\System.AppContext.dll
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\System.Collections.Immutable.dll
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\System.Console.dll
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\System.Globalization.Calendars.dll
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\System.IO.Compression.dll
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\System.IO.FileSystem.dll
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\System.Net.Http.dll
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\System.Net.Sockets.dll
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\System.Reflection.Metadata.dll
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\System.ValueTuple.dll
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\System.Xml.XmlDocument.dll
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\System.Xml.XPath.dll
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\vbc.exe
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\vbc.exe.config
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\vbc.rsp
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\VBCSCompiler.exe
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\roslyn\VBCSCompiler.exe.config
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\Antlr3.Runtime.dll
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\EntityFramework.dll
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\EntityFramework.SqlServer.dll
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\Microsoft.Web.Infrastructure.dll
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\Newtonsoft.Json.dll
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\System.Web.Helpers.dll
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\System.Web.Mvc.dll
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\System.Web.Optimization.dll
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\System.Web.Razor.dll
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\System.Web.WebPages.Deployment.dll
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\System.Web.WebPages.dll
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\System.Web.WebPages.Razor.dll
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\WebGrease.dll
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\xunit.abstractions.dll
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\xunit.core.dll
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\EntityFramework.xml
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\EntityFramework.SqlServer.xml
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\System.Web.Helpers.xml
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\System.Web.Mvc.xml
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\System.Web.Optimization.xml
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\System.Web.Razor.xml
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\System.Web.WebPages.xml
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\System.Web.WebPages.Deployment.xml
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\System.Web.WebPages.Razor.xml
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\Newtonsoft.Json.xml
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\Antlr3.Runtime.pdb
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\xunit.abstractions.xml
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\xunit.core.xml
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\obj\Debug\WebsiteBanHang.csproj.AssemblyReference.cache
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\obj\Debug\WebsiteBanHang.csproj.CoreCompileInputs.cache
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\obj\Debug\WebsiteBanHang.dll
+D:\zzz\wwwwwwwwwwwwwwwBTL\WebsiteBanHang\obj\Debug\WebsiteBanHang.pdb
+D:\sql\BTLweb\WebsiteBanHang\bin\WebsiteBanHang.dll.config
+D:\sql\BTLweb\WebsiteBanHang\bin\WebsiteBanHang.dll
+D:\sql\BTLweb\WebsiteBanHang\bin\WebsiteBanHang.pdb
+D:\sql\BTLweb\WebsiteBanHang\bin\roslyn\csc.exe
+D:\sql\BTLweb\WebsiteBanHang\bin\roslyn\csc.exe.config
+D:\sql\BTLweb\WebsiteBanHang\bin\roslyn\csc.rsp
+D:\sql\BTLweb\WebsiteBanHang\bin\roslyn\csi.exe
+D:\sql\BTLweb\WebsiteBanHang\bin\roslyn\csi.exe.config
+D:\sql\BTLweb\WebsiteBanHang\bin\roslyn\csi.rsp
+D:\sql\BTLweb\WebsiteBanHang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\sql\BTLweb\WebsiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\sql\BTLweb\WebsiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\sql\BTLweb\WebsiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\sql\BTLweb\WebsiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\sql\BTLweb\WebsiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\sql\BTLweb\WebsiteBanHang\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\sql\BTLweb\WebsiteBanHang\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\sql\BTLweb\WebsiteBanHang\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\sql\BTLweb\WebsiteBanHang\bin\roslyn\Microsoft.Managed.Core.targets
+D:\sql\BTLweb\WebsiteBanHang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\sql\BTLweb\WebsiteBanHang\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\sql\BTLweb\WebsiteBanHang\bin\roslyn\System.AppContext.dll
+D:\sql\BTLweb\WebsiteBanHang\bin\roslyn\System.Collections.Immutable.dll
+D:\sql\BTLweb\WebsiteBanHang\bin\roslyn\System.Console.dll
+D:\sql\BTLweb\WebsiteBanHang\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\sql\BTLweb\WebsiteBanHang\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\sql\BTLweb\WebsiteBanHang\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\sql\BTLweb\WebsiteBanHang\bin\roslyn\System.Globalization.Calendars.dll
+D:\sql\BTLweb\WebsiteBanHang\bin\roslyn\System.IO.Compression.dll
+D:\sql\BTLweb\WebsiteBanHang\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\sql\BTLweb\WebsiteBanHang\bin\roslyn\System.IO.FileSystem.dll
+D:\sql\BTLweb\WebsiteBanHang\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\sql\BTLweb\WebsiteBanHang\bin\roslyn\System.Net.Http.dll
+D:\sql\BTLweb\WebsiteBanHang\bin\roslyn\System.Net.Sockets.dll
+D:\sql\BTLweb\WebsiteBanHang\bin\roslyn\System.Reflection.Metadata.dll
+D:\sql\BTLweb\WebsiteBanHang\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\sql\BTLweb\WebsiteBanHang\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\sql\BTLweb\WebsiteBanHang\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\sql\BTLweb\WebsiteBanHang\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\sql\BTLweb\WebsiteBanHang\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\sql\BTLweb\WebsiteBanHang\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\sql\BTLweb\WebsiteBanHang\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\sql\BTLweb\WebsiteBanHang\bin\roslyn\System.ValueTuple.dll
+D:\sql\BTLweb\WebsiteBanHang\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\sql\BTLweb\WebsiteBanHang\bin\roslyn\System.Xml.XmlDocument.dll
+D:\sql\BTLweb\WebsiteBanHang\bin\roslyn\System.Xml.XPath.dll
+D:\sql\BTLweb\WebsiteBanHang\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\sql\BTLweb\WebsiteBanHang\bin\roslyn\vbc.exe
+D:\sql\BTLweb\WebsiteBanHang\bin\roslyn\vbc.exe.config
+D:\sql\BTLweb\WebsiteBanHang\bin\roslyn\vbc.rsp
+D:\sql\BTLweb\WebsiteBanHang\bin\roslyn\VBCSCompiler.exe
+D:\sql\BTLweb\WebsiteBanHang\bin\roslyn\VBCSCompiler.exe.config
+D:\sql\BTLweb\WebsiteBanHang\bin\Antlr3.Runtime.dll
+D:\sql\BTLweb\WebsiteBanHang\bin\EntityFramework.dll
+D:\sql\BTLweb\WebsiteBanHang\bin\EntityFramework.SqlServer.dll
+D:\sql\BTLweb\WebsiteBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\sql\BTLweb\WebsiteBanHang\bin\Microsoft.Web.Infrastructure.dll
+D:\sql\BTLweb\WebsiteBanHang\bin\Newtonsoft.Json.dll
+D:\sql\BTLweb\WebsiteBanHang\bin\System.Web.Helpers.dll
+D:\sql\BTLweb\WebsiteBanHang\bin\System.Web.Mvc.dll
+D:\sql\BTLweb\WebsiteBanHang\bin\System.Web.Optimization.dll
+D:\sql\BTLweb\WebsiteBanHang\bin\System.Web.Razor.dll
+D:\sql\BTLweb\WebsiteBanHang\bin\System.Web.WebPages.Deployment.dll
+D:\sql\BTLweb\WebsiteBanHang\bin\System.Web.WebPages.dll
+D:\sql\BTLweb\WebsiteBanHang\bin\System.Web.WebPages.Razor.dll
+D:\sql\BTLweb\WebsiteBanHang\bin\WebGrease.dll
+D:\sql\BTLweb\WebsiteBanHang\bin\xunit.abstractions.dll
+D:\sql\BTLweb\WebsiteBanHang\bin\xunit.core.dll
+D:\sql\BTLweb\WebsiteBanHang\bin\EntityFramework.xml
+D:\sql\BTLweb\WebsiteBanHang\bin\EntityFramework.SqlServer.xml
+D:\sql\BTLweb\WebsiteBanHang\bin\System.Web.Helpers.xml
+D:\sql\BTLweb\WebsiteBanHang\bin\System.Web.Mvc.xml
+D:\sql\BTLweb\WebsiteBanHang\bin\System.Web.Optimization.xml
+D:\sql\BTLweb\WebsiteBanHang\bin\System.Web.Razor.xml
+D:\sql\BTLweb\WebsiteBanHang\bin\System.Web.WebPages.xml
+D:\sql\BTLweb\WebsiteBanHang\bin\System.Web.WebPages.Deployment.xml
+D:\sql\BTLweb\WebsiteBanHang\bin\System.Web.WebPages.Razor.xml
+D:\sql\BTLweb\WebsiteBanHang\bin\Newtonsoft.Json.xml
+D:\sql\BTLweb\WebsiteBanHang\bin\Antlr3.Runtime.pdb
+D:\sql\BTLweb\WebsiteBanHang\bin\xunit.abstractions.xml
+D:\sql\BTLweb\WebsiteBanHang\bin\xunit.core.xml
+D:\sql\BTLweb\WebsiteBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\sql\BTLweb\WebsiteBanHang\obj\Debug\WebsiteBanHang.csproj.AssemblyReference.cache
+D:\sql\BTLweb\WebsiteBanHang\obj\Debug\WebsiteBanHang.csproj.CoreCompileInputs.cache
+D:\sql\BTLweb\WebsiteBanHang\obj\Debug\WebsiteBanHang.csproj.CopyComplete
+D:\sql\BTLweb\WebsiteBanHang\obj\Debug\WebsiteBanHang.dll
+D:\sql\BTLweb\WebsiteBanHang\obj\Debug\WebsiteBanHang.pdb
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\obj\Debug\WebsiteBanHang.csproj.AssemblyReference.cache
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\obj\Debug\WebsiteBanHang.csproj.CoreCompileInputs.cache
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\obj\Debug\WebsiteBanHang.dll
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\obj\Debug\WebsiteBanHang.pdb
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\WebsiteBanHang.dll.config
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\WebsiteBanHang.dll
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\WebsiteBanHang.pdb
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\roslyn\csc.exe
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\roslyn\csc.exe.config
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\roslyn\csc.rsp
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\roslyn\csi.exe
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\roslyn\csi.exe.config
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\roslyn\csi.rsp
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\roslyn\Microsoft.Managed.Core.targets
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\roslyn\System.AppContext.dll
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\roslyn\System.Collections.Immutable.dll
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\roslyn\System.Console.dll
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\roslyn\System.Globalization.Calendars.dll
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\roslyn\System.IO.Compression.dll
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\roslyn\System.IO.FileSystem.dll
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\roslyn\System.Net.Http.dll
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\roslyn\System.Net.Sockets.dll
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\roslyn\System.Reflection.Metadata.dll
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\roslyn\System.ValueTuple.dll
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\roslyn\System.Xml.XmlDocument.dll
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\roslyn\System.Xml.XPath.dll
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\roslyn\vbc.exe
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\roslyn\vbc.exe.config
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\roslyn\vbc.rsp
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\roslyn\VBCSCompiler.exe
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\roslyn\VBCSCompiler.exe.config
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\Antlr3.Runtime.dll
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\EntityFramework.dll
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\EntityFramework.SqlServer.dll
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\Microsoft.Web.Infrastructure.dll
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\Newtonsoft.Json.dll
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\System.Web.Helpers.dll
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\System.Web.Mvc.dll
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\System.Web.Optimization.dll
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\System.Web.Razor.dll
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\System.Web.WebPages.Deployment.dll
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\System.Web.WebPages.dll
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\System.Web.WebPages.Razor.dll
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\WebGrease.dll
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\xunit.abstractions.dll
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\xunit.core.dll
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\EntityFramework.xml
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\EntityFramework.SqlServer.xml
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\System.Web.Helpers.xml
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\System.Web.Mvc.xml
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\System.Web.Optimization.xml
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\System.Web.Razor.xml
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\System.Web.WebPages.xml
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\System.Web.WebPages.Deployment.xml
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\System.Web.WebPages.Razor.xml
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\Newtonsoft.Json.xml
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\Antlr3.Runtime.pdb
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\xunit.abstractions.xml
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\xunit.core.xml
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\tài liệu web\sql\BTLweb\WebsiteBanHang\obj\Debug\WebsiteBanHang.csproj.CopyComplete

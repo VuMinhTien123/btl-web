@@ -1,0 +1,28 @@
+﻿@using WebsiteBanHang.Context;
+
+@model List<Category>
+
+
+
+
+@foreach (var item in Model)
+{
+    <li id="@item.CateId" class="cartegory-left-li">
+        <a href="@Url.Action("LaptopTheoCategory",new { @CateId=item.CateId})">@item.Name</a>
+    </li>
+}
+
+
+
+<script>
+    @("li").click(function (e)){
+        var id = $(this).attr("id");
+        $.ajax({
+            url: "LoadProductByCateId",
+            data: { CateId: id },
+            success: function (response) {
+                $("div.cartegory-right-content").html(response);
+            }
+        })
+    }
+</script>

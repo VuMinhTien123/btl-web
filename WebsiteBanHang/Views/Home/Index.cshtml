@@ -1,0 +1,35 @@
+﻿@model WebsiteBanHang.Models.HomeModel
+
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<section id="slider">
+    <div class="slider-container">
+        <img src="~/Content/images/slide2.png" alt="">
+        <img src="~/Content/images/slide5.png" alt="">
+    </div>
+    <div class="dot-container">
+        <div class="dot active"></div>
+        <div class="dot"></div>
+    </div>
+</section>
+
+<section class="product-related container">
+    <div class="product-related-title">
+        <p>Danh mục sản phẩm</p>
+    </div>
+        <div class="product-content1">
+            @foreach (var item in Model.ListProduct.Where(n => n.ShowOnHomePage == true))
+            {
+            <div class="product-related-item">
+                <a href="@Url.Action("Detail","Product", new {Id= item.Id })">
+                    <img src="~/Content/images/@item.Avartar" alt="">
+                </a>
+                <h2>@item.Name</h2>
+                @*@Html.ActionLink(item.Name, "Detail", "Product", new { Id = item.Id })*@
+                <p>@item.Price<sup>đ</sup></p>
+            </div>
+            }
+        </div>
+</section>

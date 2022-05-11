@@ -1,0 +1,177 @@
+﻿@model WebsiteBanHang.Context.Product
+
+
+@{
+    ViewBag.Title = "Detail";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script type="text/javascript">
+    $(function () {
+        $("#addtocart").click(function () {
+            var model = {};
+            //lấy id sản phẩm
+            model.Id = @Model.Id;
+            // lấy số lượng đặt hàng
+            model.Quantity = $("#ipQuantity").val();
+            debugger;
+            $.ajax({
+                type: "POST",
+                url: '@Url.Action("AddToCart", "Cart")',
+                data:  JSON.stringify(model) ,
+                dataType: "json",
+                contentType: "application/json; charset=utf-8",
+                success: function () {
+                    alert("Thêm giỏ hàng thành công!")
+                    $('#CartCount').text(@Session["count"] + 1);
+                },
+                error: function () {
+                    alert("Lỗi trong khi thêm vào giỏ hàng!");
+                }
+            });
+            return false;
+        });
+    });
+</script>
+
+<section class="product ">
+    <div class="container">
+        @*
+        <div class="product-top row">
+            <p>Trang chủ</p> <span>&#8594;</span>
+            <p>Laptop mới</p> <span>&#8594;</span>
+            <p>Lenovo ThinkPad X1 Cacbon Gen5</p>
+        </div>
+        *@
+        <div class="product-content row">
+            <div class="product-content-left row">
+                <div class="product-content-left-big-img">
+                    <img src="~/Content/images/@Model.Avartar" alt="">
+                </div>
+                <div class="product-content-left-small-img">
+                    <img src="~/Content/images/sp1.4.jpg" alt="">
+                    <img src="~/Content/images/sp1.3.jpg" alt="">
+                    <img src="~/Content/images/sp1.2.jpg" alt="">
+                    <img src="~/Content/images/sp1.5.jpg" alt="">
+                </div>
+            </div>
+            <div class="product-content-right">
+                <div class="product-content-right-product-name">
+                    <h2>@Model.Name</h2>
+                    <p>MSP:123456</p>
+                </div>
+                <div class="product-content-right-product-price">
+                    <p>@Model.Price<sup>đ</sup></p>
+                </div>
+                <div class="product-content-right-product-color">
+                    <p>Màu sắc : <span style="color: rgb(61, 60, 60);"> Đen </span> <span style="color: rgb(61, 60, 60);">*</span></p>
+                    <div class="product-content-right-product-color-img">
+                        <img src="~/Content/images/color.jpg" alt="">
+                    </div>
+                </div>
+                <div class="product-content-right-product-confi">
+                    <p style="font-weight: bold;">Cấu Hình:</p>
+                    <div class="confi">
+                        <span>Core i5-6200U</span>
+                    </div>
+                </div>
+                <div class="quantity">
+                    <span style="display: flex;"><p style="font-weight: bold;">Số lượng:</p><input type="number" id="ipQuantity"  min="1" value="1"></span>
+
+                    @*<p class="quantity-p" style="color: red;">Vui lòng chọn cấu hình</p>*@
+                </div>
+                <div class="product-content-right-product-button">
+                    <a href="#" id="addtocart" class="btn  btn-primary">
+                        <button style="">
+                            <i class="fa-solid fa-cart-shopping"></i>
+                            <span class="text" h><p>THÊM VÀO GIỎ</p></span>
+                        </button>
+                    </a>
+                    <a href="~/Home/Index">
+                        <button><p>TÌM TẠI CỬA HÀNG</p></button>
+                    </a>
+                </div>
+                <div class="product-content-right-product-icon">
+                    <div class="product-content-right-product-icon-item">
+                        <a href="">
+                            <i class="fa-solid fa-phone-flip"></i>
+                            <p>Liên hệ</p>
+                        </a>
+                    </div>
+                    <div class="product-content-right-product-icon-item">
+                        <a href="">
+                            <i class="fa-solid fa-comments"></i>
+                            <p>Chat</p>
+                        </a>
+                    </div>
+                    <div class="product-content-right-product-icon-item">
+                        <a href="">
+                            <i class="fa-solid fa-envelope"></i>
+                            <p>Mail</p>
+                        </a>
+                    </div>
+
+                </div>
+                <div class="product-content-right-bottom">
+                    <div class="product-content-right-bottom-top">
+                        &#8744;
+                    </div>
+                </div>
+                <div class="product-content-right-bottom-content-big">
+                    <div class="product-content-right-bottom-content-title row">
+                        <div class="product-content-right-bottom-content-title-item chitiet">
+                            <p>Chi tiết</p>
+                        </div>
+                        <div class="product-content-right-bottom-content-title-item baohanh">
+                            <p>Bảo hành</p>
+                        </div>
+                    </div>
+                    <div class="product-content-right-bottom-content">
+                        <div class="product-content-right-bottom-content-chitiet">
+                            <p>
+                                @Model.FullDescription
+                            </p>
+                        </div>
+                        <div class="product-content-right-bottom-content-baohanh">
+                            <p> @Model.ShortDes </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="product-related container">
+    <div class="product-related-title">
+        <p>Sản phẩm tương tự</p>
+    </div>
+    <div class="product-content1 ">
+        @*<div class="product-related-item">
+            <img src="~/Content/images/sp2.jpg" alt="">
+            <h2>Asus ZenBook Q408UG</h2>
+            <p>17.990.000<sup>đ</sup></p>
+        </div>*@
+        <div class="product-related-item">
+            <img src="~/Content/images/sp3.jpg" alt="">
+            <h2>Lenovo ThinkPad T470</h2>
+            <p>30000<sup>đ</sup></p>
+        </div>
+        @*<div class="product-related-item">
+            <img src="~/Content/images/sp4.jpg" alt="">
+            <h2>Dell inspiron 15 3511</h2>
+            <p>16.590.000<sup>đ</sup></p>
+        </div>*@
+        <div class="product-related-item">
+            <img src="~/Content/images/sp5.jpg" alt="">
+            <h2>Lenovo ThinkBook G3</h2>
+            <p>30000<sup>đ</sup></p>
+        </div>
+        <div class="product-related-item">
+            <img src="~/Content/images/sp6.jpg" alt="">
+            <h2>Asus Nitro 5 Eagle</h2>
+            <p>30000<sup>đ</sup></p>
+        </div>
+    </div>
+</section>
+

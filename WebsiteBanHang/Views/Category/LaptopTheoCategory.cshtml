@@ -1,0 +1,22 @@
+﻿@using WebsiteBanHang.Context;
+@model List<Product>
+
+
+@{
+    ViewBag.Title = "LaptopTheoCategory";
+    Layout = "~/Views/Category/LayoutCategory.cshtml";
+}
+@ViewBag.Laptop
+
+@*Hiển thị Laptop theo category*@
+@foreach (var item in Model)
+{
+    <div class="cartegory-right-content-item">
+        <a href="@Url.Action("Detail","Product", new {Id= item.Id })">
+            <img src="@Url.Content("~/Content/images/"+item.Avartar)" />
+        </a>
+        <h2>@item.Name</h2>
+        <p>@item.Price<sup>đ</sup></p>
+    </div>
+}
+
